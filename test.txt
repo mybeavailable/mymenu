@@ -2,4 +2,8 @@ hello word
 abc
 new line
 this is new line
-& simple
+<<<<<<< HEAD
+and simple
+=======
+and simple
+>>>>>>> feature1
